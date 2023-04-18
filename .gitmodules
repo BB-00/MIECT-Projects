@@ -1,0 +1,6 @@
+[submodule "Ano1/LSD/Ano1/LSD/MiniProjeto"]
+	path = Ano1/LSD/Ano1/LSD/MiniProjeto
+	url = git@github.com:BB-00/MiniProjeto.git
+[submodule "Ano1/LSD/MiniProjeto"]
+	path = Ano1/LSD/MiniProjeto
+	url = git@github.com:BB-00/MiniProjeto.git
